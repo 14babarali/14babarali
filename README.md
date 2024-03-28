@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">Hi 👋, I'm Babar Ali</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
@@ -39,8 +39,8 @@
 
  
 </p>
-<h4 align="right">Backend:</h4>
-<p align="right"> 
+<h4 align="left">Backend:</h4>
+<p align="left"> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a>
