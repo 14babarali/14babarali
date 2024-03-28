@@ -48,6 +48,19 @@
     </a>
     <!-- Add more frontend tools and frameworks here -->
 </p>
+<h4 align="left">Backend:</h4>
+<p align="left"> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/> 
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    </a>
+    <!-- Add more backend frameworks and tools here -->
+</p>
 
 
 <h5 align="left">Frontend:</h5>
