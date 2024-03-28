@@ -61,7 +61,27 @@
     </a>
     <!-- Add more backend frameworks and tools here -->
 </p>
+<h4 align="left">Database:</h4>
+<p align="left"> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <!-- Add more database technologies here -->
+</p>
 
+<h4 align="left">Frameworks:</h4>
+<p align="left"> 
+    <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
+    </a> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://nestjs.com/img/logo_text.svg" alt="nestjs" width="40" height="40"/> 
+    </a>
+    <!-- Add more frameworks here -->
+</p>
 
 <h5 align="left">Frontend:</h5>
 <p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
