@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=14babarali&label=Profile%20views&color=0e75b6&style=flat" alt="14babarali" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Nodejs, Express**
+
+
 
 - 💬 Ask me about **Javascript, TypeScript , React Js , React Native , Python**
 
