@@ -1,7 +1,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Babar Ali</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
+<h3 align="center">A passionate  Software Engineer   from Pakistan</h3>
 
 <img align="right" alt="babarali" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -9,9 +9,15 @@
 
 
 
+<p align="left"> <a href="https://twitter.com/14babar_ali" target="blank"><img src="https://img.shields.io/twitter/follow/14babar_ali?logo=twitter&style=for-the-badge" alt="14babar_ali" /></a> </p>
+
+- 🌱 I’m currently learning **ML Engineer**
+
+- 📝 I regularly write articles on [https://babarali12.hashnode.dev/](https://babarali12.hashnode.dev/)
 
 
-- 💬 Ask me about **Javascript, TypeScript , React Js , React Native , Python**
+- 💬 Ask me about **NumPy |TensorFlow| Python |JavaScript |Next Js |React js | Node js | Express js | | MERN Stack |MARN Stack | React Native**
+
 
 - 📫 How to reach me **bainfo14@gamil.com**
 ### ✍️ Random Dev Quote
@@ -45,6 +51,8 @@
 
 
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=14babarali" alt="14babarali" /></a> </p>
 
 
 
