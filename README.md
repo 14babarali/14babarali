@@ -35,13 +35,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=14babarali&" alt="14babarali" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14babarali&show_icons=true&locale=en" alt="14babarali" /></p>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=14babarali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=14babarali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
