@@ -41,13 +41,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=14babarali&show_icons=true&locale=en&layout=compact" alt="14babarali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=14babarali&" alt="14babarali" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14babarali&show_icons=true&locale=en" alt="14babarali" /></p>
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=14babarali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
