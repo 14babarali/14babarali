@@ -56,17 +56,7 @@
 
 ###
 
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=14babarali" alt="14babarali" /></a> </p>
-
-
-
-
-
+###
 <img src="https://raw.githubusercontent.com/14babarali/14babarali/output/snake.svg" alt="Snake animation" />
 
 ###
