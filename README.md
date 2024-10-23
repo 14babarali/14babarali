@@ -56,8 +56,8 @@
 
 ###
 
-###
-<img src="https://raw.githubusercontent.com/14babarali/14babarali/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/14babarali/14babarali/output/snake.svg" alt="" />
 
 ###
 
