@@ -49,8 +49,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14babarali&show_icons=true&locale=en" alt="14babarali" /></p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=14babarali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=14babarali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=14babarali&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=14babarali&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/14babarali/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/14babarali/14babarali/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
