@@ -132,14 +132,6 @@
 
 ---
 
-### 🔐 Authentication & Authorization
-
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase)
-![OAuth 2.0](https://img.shields.io/badge/OAuth2.0-4A90E2?style=for-the-badge&logo=openid)
-
----
 
 ## 🧩 GitHub Widgets
 
