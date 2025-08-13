@@ -115,13 +115,6 @@
 ---
 
 
-## 🧩 GitHub Widgets
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=14babarali&theme=react-dark&area=true" height="280"/>
-</p>
-
----
 
 <!-- Customized and Crafted by Babar Ali 🤘 -->
