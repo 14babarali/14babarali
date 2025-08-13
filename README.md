@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Babar Ali</h1>
 <h3 align="center">A Passionate Software Engineer, Full Stack Developer & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 
 <p align="center">
   <a href="https://twitter.com/14babar_ali" target="_blank">
@@ -79,10 +75,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
----
 
 
 ### 🧠 AI/ML & LLMs
@@ -108,7 +101,6 @@
 ---
 ### ☁️ Cloud Platforms & BaaS
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
