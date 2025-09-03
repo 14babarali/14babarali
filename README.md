@@ -13,14 +13,8 @@
 
 ## 🚀 About Me
 
-- 🧠 Full Stack Developer | ML Engineer | AI Agent Builder
+- 🧠 Full Stack Developer
 - 💻 Focused on building **scalable backends**, **AI-integrated apps**, and **production-grade systems**
-- ✍️ Writing on [Hashnode](https://babarali12.hashnode.dev)
-- 🔭 Currently Learning:
-  - LLM Agents (LangChain, Transformers)
-  - Microservices & Scalable Backend Design
-  - Advanced React + TypeScript + Zod + tRPC
-  - RAG pipelines with Pinecone, Qdrant
 ---
 ## 💻 Tech Stack
 ### 🔧 Languages
@@ -32,17 +26,13 @@
 ---
 ### ⚙️ Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Jest](https://img.shields.io/badge/Jest-99425B?style=for-the-badge&logo=jest)
 
 ---
 ### 🌐 Frontend Frameworks & UI
 <!-- Core frameworks -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
