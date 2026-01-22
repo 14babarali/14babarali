@@ -1,5 +1,40 @@
 <h1 align="center">Hey 👋 What's Up? I'm Babar Ali</h1>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+<div align="center">
+  <h3>🎯 Full Stack AI Software Engineer | Multi-Platform Developer</h3>
+  <p>Expert in MERN Stack, Python FastAPI, React Native, Electron, and AI Integration</p>
+  <p>Building scalable web, mobile & desktop applications with cutting-edge technologies</p>
+</div>
+
+###
+
+<div align="center">
+  <h4>📫 Let's Connect!</h4>
+  <p>Open to collaborations on AI automation, web scraping, multi-platform apps, and innovative projects</p>
+</div>
+
+
+
+
+---
+
+## 📜 Certifications
+- IBM Full Stack Software Developer – Coursera  
+- Full Stack Web Development with React – HKUST  
+- Frontend Development with React – NIIT  
+- Advanced JavaScript & OOP – Eduonix  
+
+---
 ###
 
 <div align="center">
@@ -150,40 +185,5 @@
 
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/14babarali/14babarali/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
-<div align="center">
-  <h3>🎯 Full Stack AI Software Engineer | Multi-Platform Developer</h3>
-  <p>Expert in MERN Stack, Python FastAPI, React Native, Electron, and AI Integration</p>
-  <p>Building scalable web, mobile & desktop applications with cutting-edge technologies</p>
-</div>
-
-###
-
-<div align="center">
-  <h4>📫 Let's Connect!</h4>
-  <p>Open to collaborations on AI automation, web scraping, multi-platform apps, and innovative projects</p>
-</div>
-
-
-
-
----
-
-## 📜 Certifications
-- IBM Full Stack Software Developer – Coursera  
-- Full Stack Web Development with React – HKUST  
-- Frontend Development with React – NIIT  
-- Advanced JavaScript & OOP – Eduonix  
-
----
-
 
 ⭐ *Always building scalable systems, AI-powered solutions, and production-ready software.*
