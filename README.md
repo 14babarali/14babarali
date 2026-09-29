@@ -59,20 +59,24 @@
 
 ## Featured projects
 
-🤖 **AI Meeting Assistant** — Cross-platform AI tool for meeting transcription,
-summarization, and note generation. Built with Electron.js + React + FastAPI + LLM APIs.
-→ [View repo](#)
+Most of my client and company work lives in private repos — every project below has a **live demo** or a full case study.
 
-🛒 **Full-Stack E-Commerce Ecosystem** — Mobile app (React Native) + web admin +
-FastAPI backend with Stripe payments, Firebase push notifications, real-time inventory.
-→ [View repo](#)
+🏫 **SchoolAira** — AI-powered school management ERP built for Pakistani schools, with AI exam generation and auto-grading.
+→ [Live site](https://schoolaira.com/)
 
-👁️ **Vision Detection Suite** — Real-time multi-modal detection (face, emotion,
-hand gestures, objects) running on a standard webcam.
+💼 **Azhan Jobs** — Job aggregator that pulls listings from LinkedIn, Indeed, Glassdoor and more into one searchable dashboard. Next.js + web scraping.
+→ [Live demo](https://azhan-jobs.vercel.app/)
+
+🧠 **QGenius** — AI interview-question generator for candidates and hiring teams. Next.js + OpenAI API.
+→ [Live demo](https://q-genius-one.vercel.app/)
+
+🏨 **Hospitality Management System** — AI voice booking agent (Twilio) on a FastAPI backend with a RAG pipeline over hotel policies. React · TypeScript · PostgreSQL · Redis.
+→ [Case study](https://14babarali.netlify.app/projects)
+
+👁️ **Vision Detection Suite** — Real-time face, emotion, hand-gesture and object detection on a standard webcam.
 → [View repo](https://github.com/14babarali/FaceDetection)
 
-📚 **AI Book Generator** — Full-stack LLM-powered book generation tool.
-→ [View repo](https://github.com/14babarali/book-generator_fullstack)
+📂 [See all projects with case studies →](https://14babarali.netlify.app/projects)
 
 
 ###
